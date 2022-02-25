@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+MERGED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-29:12
+MERGED from [:shared_preferences] C:\Users\shwar\Downloads\app\movie\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\shwar\Downloads\app\movie\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\Users\shwar\Downloads\app\movie\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\shwar\.gradle\caches\transforms-3\4cfefeff933c8d085fad25e1b2663137\transformed\webkit-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\shwar\.gradle\caches\transforms-3\d351a66131d18fe236b858a9c2c22ffa\transformed\browser-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\bff4159fb423b1ba8e99eaab3b05a7bb\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\044981ebdce90dee2a24ddc9600c82ae\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\deeda53eb67fee9ceff89e21df01e5ca\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\7bc5af4431ea167cdc2a8acb75f2f972\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\05812afb6b376c04a3c7334c0da98224\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\fb652e996f1d5db49e9bea7de7017be3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\46125f9285ab1d9e894ed09ab8f244a6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\bbd4ebb1323b7d847755f562679e6af9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9ae72d015123c73e5a51bd9e8a771df1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\143156871f260cce3af73ba6522d5a60\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a73d37f7f1e8ff199147c378d6b4a0f4\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\shwar\.gradle\caches\transforms-3\9edd03b2da43dc329c45db12b5545fa5\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a12b9e889429a7e33adc627919b4467c\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\9138cfeb22fdc6d57a5baa58ccfecdbd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\dc0cebb4f96f606c6c05739b7aef1031\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a5cea36973eedde1a4af7545a971e1ab\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shwar\.gradle\caches\transforms-3\082961ba5d82206008bb271b1238ef7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\59aede673f52ed78ff34f45bedd27140\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a4b4fa43607139de3c2de86a789a308a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\c31b7500aebe2701ee1440797af04e98\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shwar\.gradle\caches\transforms-3\f0d233ba45474d108627064b5264fca1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9317f39c040577d42edcd6eaca139f2a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:1-49:12
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:9:10-71
+MERGED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:9:10-71
+MERGED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:9:10-71
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:9:27-69
+application
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:10:5-48:19
+MERGED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-27:19
+MERGED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-27:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shwar\.gradle\caches\transforms-3\082961ba5d82206008bb271b1238ef7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shwar\.gradle\caches\transforms-3\082961ba5d82206008bb271b1238ef7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:12:9-34
+	android:icon
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:13:9-45
+activity#com.example.movieapp.MainActivity
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:14:9-42:20
+	android:launchMode
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:configChanges
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:15:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:25:13-28:17
+	android:resource
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:27:15-52
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:26:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:34:13-37:17
+	android:resource
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:36:15-61
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:35:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:40:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:45:9-47:33
+	android:value
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:47:13-30
+	android:name
+		ADDED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml:46:13-44
+uses-sdk
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\shwar\Downloads\app\movie\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\shwar\Downloads\app\movie\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\shwar\Downloads\app\movie\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\shwar\Downloads\app\movie\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\shwar\Downloads\app\movie\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Users\shwar\Downloads\app\movie\build\path_provider\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\shwar\.gradle\caches\transforms-3\4cfefeff933c8d085fad25e1b2663137\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.4.0] C:\Users\shwar\.gradle\caches\transforms-3\4cfefeff933c8d085fad25e1b2663137\transformed\webkit-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\shwar\.gradle\caches\transforms-3\d351a66131d18fe236b858a9c2c22ffa\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.3.0] C:\Users\shwar\.gradle\caches\transforms-3\d351a66131d18fe236b858a9c2c22ffa\transformed\browser-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\bff4159fb423b1ba8e99eaab3b05a7bb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\bff4159fb423b1ba8e99eaab3b05a7bb\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\044981ebdce90dee2a24ddc9600c82ae\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\044981ebdce90dee2a24ddc9600c82ae\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\deeda53eb67fee9ceff89e21df01e5ca\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\deeda53eb67fee9ceff89e21df01e5ca\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\7bc5af4431ea167cdc2a8acb75f2f972\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\shwar\.gradle\caches\transforms-3\7bc5af4431ea167cdc2a8acb75f2f972\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\05812afb6b376c04a3c7334c0da98224\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\05812afb6b376c04a3c7334c0da98224\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\fb652e996f1d5db49e9bea7de7017be3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\fb652e996f1d5db49e9bea7de7017be3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\46125f9285ab1d9e894ed09ab8f244a6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\46125f9285ab1d9e894ed09ab8f244a6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\bbd4ebb1323b7d847755f562679e6af9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\bbd4ebb1323b7d847755f562679e6af9\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9ae72d015123c73e5a51bd9e8a771df1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9ae72d015123c73e5a51bd9e8a771df1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\143156871f260cce3af73ba6522d5a60\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\143156871f260cce3af73ba6522d5a60\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a73d37f7f1e8ff199147c378d6b4a0f4\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a73d37f7f1e8ff199147c378d6b4a0f4\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\shwar\.gradle\caches\transforms-3\9a5f0c3eb9b27488ee92448a0b8faef0\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\shwar\.gradle\caches\transforms-3\9edd03b2da43dc329c45db12b5545fa5\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\shwar\.gradle\caches\transforms-3\9edd03b2da43dc329c45db12b5545fa5\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a12b9e889429a7e33adc627919b4467c\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a12b9e889429a7e33adc627919b4467c\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\9138cfeb22fdc6d57a5baa58ccfecdbd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\9138cfeb22fdc6d57a5baa58ccfecdbd\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\dc0cebb4f96f606c6c05739b7aef1031\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\dc0cebb4f96f606c6c05739b7aef1031\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a5cea36973eedde1a4af7545a971e1ab\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a5cea36973eedde1a4af7545a971e1ab\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shwar\.gradle\caches\transforms-3\082961ba5d82206008bb271b1238ef7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\shwar\.gradle\caches\transforms-3\082961ba5d82206008bb271b1238ef7b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\59aede673f52ed78ff34f45bedd27140\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\59aede673f52ed78ff34f45bedd27140\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a4b4fa43607139de3c2de86a789a308a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\shwar\.gradle\caches\transforms-3\a4b4fa43607139de3c2de86a789a308a\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\c31b7500aebe2701ee1440797af04e98\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\shwar\.gradle\caches\transforms-3\c31b7500aebe2701ee1440797af04e98\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shwar\.gradle\caches\transforms-3\f0d233ba45474d108627064b5264fca1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\shwar\.gradle\caches\transforms-3\f0d233ba45474d108627064b5264fca1\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9317f39c040577d42edcd6eaca139f2a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\shwar\.gradle\caches\transforms-3\9317f39c040577d42edcd6eaca139f2a\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shwar\Downloads\app\movie\android\app\src\debug\AndroidManifest.xml
+queries
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-11:15
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-10:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-90
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:9:21-87
+activity#com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:14:9-17:47
+	android:configChanges
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-137
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-104
+activity#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:18:9-20:55
+	android:theme
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-52
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-112
+receiver#com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:9-120
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:22:19-117
+meta-data#io.flutter.embedded_views_preview
+ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from [:flutter_inappwebview] C:\Users\shwar\Downloads\app\movie\build\flutter_inappwebview\intermediates\library_manifest\debug\AndroidManifest.xml:25:13-61
